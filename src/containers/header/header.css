@@ -1,0 +1,11 @@
+.header{
+  height: 390px;
+  background: linear-gradient(90deg, #fff 65%, #BDCCFF 35%);
+  position:relative;
+}
+
+@media only screen and (min-width:750px){
+  .header{
+    height: 640px;
+  }
+}
